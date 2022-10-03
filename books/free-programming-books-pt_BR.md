@@ -70,6 +70,7 @@
 
 #### Programação
 
+* [Fundamentos da Programação de Computadores](http://caequfpb.yolasite.com/resources/Livro%20Fundamentos%20da%20Programa%C3%A7%C3%A3o.pdf) - Ana Fernanda Gomes Ascencio, Edilene Aparecida Veneruchi de Campos (PDF)
 * [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
 * [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
